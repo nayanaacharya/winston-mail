@@ -1,3 +1,6 @@
+# OWNER
+Neda Garemani (neda.garemani@nbcuni.com)
+
 ![NPM](https://img.shields.io/npm/v/winston-mail.svg) [![Build Status](https://travis-ci.org/wavded/winston-mail.svg?branch=master)](https://travis-ci.org/wavded/winston-mail) ![Downloads](https://img.shields.io/npm/dt/winston-mail.svg)
 
 A email transport for [winston][0].
